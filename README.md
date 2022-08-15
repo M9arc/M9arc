@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Snape</h1>
+<h4 align="center">a javascript backend developer that is located in the United Kingdom</h4>
+</div>
 
-<!--
-**M9arc/M9arc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://mloxytrading.com">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+     </a>
+      <a href="https://discordapp.com/users/1002269131690737685" target="blank"><img align="center"
+         src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png"
+         alt="Snape#3673" height="30"/></a>
+  Builderman#0740
+    </p>
+  <p align="center">
+     
+     
+  </samp>
+</div>
+</details>
