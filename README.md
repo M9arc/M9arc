@@ -17,7 +17,7 @@
     <p align="center">
       <br/>
      </a>
-      <a href="https://discordapp.com/users/1002269131690737685" target="blank"><img align="center"
+      <a href="https://discordapp.com/users/690376157744332900" target="blank"><img align="center"
          src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png"
          alt="Snape#3673" height="30"/></a>
   Snape#3673
