@@ -20,7 +20,7 @@
       <a href="https://discordapp.com/users/1002269131690737685" target="blank"><img align="center"
          src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png"
          alt="Snape#3673" height="30"/></a>
-  Builderman#0740
+  Snape#3673
     </p>
   <p align="center">
      
